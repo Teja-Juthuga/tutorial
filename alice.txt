@@ -1,2 +1,2 @@
-HI How are You?
 What are you learning currently?
+I am currently learning Git!!
